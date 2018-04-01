@@ -1,5 +1,4 @@
-陈相镇的实验报告
-========
+
 <table>
 <tr>
     <th width=100%, bgcolor=withe >姓名</th>
@@ -7,9 +6,9 @@
     <th width="50%", bgcolor=withe>班级</th>
   </tr>
   <tr>
-      <th width=100%, bgcolor=withe >陈相镇</th>
-      <th width=40%, bgcolor=withe>201510414104</th>
-      <th width="50%", bgcolor=withe>2015级软件工程1班</th>
+      <th width=100%, bgcolor=withe >陈松华</th>
+      <th width=40%, bgcolor=withe>201510315203</th>
+      <th width="40%", bgcolor=withe>2015级软件工程1班</th>
     </tr>
 </table>
 
